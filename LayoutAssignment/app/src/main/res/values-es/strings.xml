@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lector de Reddit</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contrasenia (optional)</string>
+    <string name="action_sign_in">Ingresa o Registrate</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="action_sign_out">Salir</string>
+    <string name="error_invalid_email">Direccion de Mail Invalido</string>
+    <string name="error_invalid_password">contrasenia demasiado corta</string>
+    <string name="error_incorrect_password">contrasenia incorrecta</string>
+    <string name="error_field_required">Este campo es necesario</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="title_activity_news">"Lector de Reddit"
+    </string>
+
+
+</resources>
